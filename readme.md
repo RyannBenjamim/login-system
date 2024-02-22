@@ -83,9 +83,9 @@ npm run dev
 
 ## Screenshots
 
-![screencapture-localhost-5173-2024-02-22-13_12_42](https://github.com/RyannBenjamim/login-system/assets/87036259/c0a0904c-607b-4b8c-9f16-5a462a35d21b)
+![screencapture-localhost-5173-2024-02-22-13_12_42](https://github.com/RyannBenjamim/login-system/assets/87036259/26dbc08f-8e06-477f-89ff-c59bd1ea70f9)
 
-![screencapture-localhost-5173-signup-2024-02-22-13_13_04](https://github.com/RyannBenjamim/login-system/assets/87036259/b5db0f92-ac21-4a9f-b3e9-336a5ad3dee9)
+![screencapture-localhost-5173-signup-2024-02-22-13_13_04](https://github.com/RyannBenjamim/login-system/assets/87036259/fa3b1619-e63a-4441-9899-58d43521a52a)
 
 ## Contato
 
