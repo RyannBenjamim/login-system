@@ -44,7 +44,7 @@ class UserService {
 
     const token = jwt.sign(
       { id: user.id, email: user.email },
-      "ryloginsystem2001",
+      process.env.TOKENSECRET,
       { expiresIn: "1d" }
     );
 
